@@ -52,7 +52,7 @@ const About = () => {
           </div>
 
           <div className="sub-content">
-            <p>
+            <p className="font-playfair-display">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti
               fuga aperiam maxime optio reprehenderit libero dolore totam labore
               impedit voluptatem.
